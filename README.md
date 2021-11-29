@@ -1,8 +1,8 @@
 # Olá, sou Marcius Bezerra, Analista de Sistemas.
 ### Conheça um pouco de mim...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra/marciusbezerra)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)](https://github.com/marciusbezerra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra)
 
 > No início de 2005, graduei-me em Ciências da Computação pela U.V.A. Universidade Estadual Vale do Acaraú.
 > 
