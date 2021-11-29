@@ -32,18 +32,18 @@
 # Principais Competências
 
 <div style="display: inline-block">
-<img width="64" height="64" src="imgs/lang/dotnetcore-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img width="64" height="64" src="imgs/lang/apple-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="64" height="64" src="imgs/lang/dotnetcore-original.svg" alt="dotnet core" />
+<img width="64" height="64" src="imgs/lang/csharp-original.svg" alt="csharp" />
+<img width="64" height="64" src="imgs/lang/ionic-original.svg" alt="ionic" />
+<img width="64" height="64" src="imgs/lang/typescript-original.svg" alt="typescript" />
+<img width="64" height="64" src="imgs/lang/javascript-original.svg" alt="javascript" />
+<img width="64" height="64" src="imgs/lang/python-original-wordmark.svg" alt="python" />
+<img width="64" height="64" src="imgs/lang/windows8-original.svg" alt="windows" />
+<img width="64" height="64" src="imgs/lang/apple-original.svg" alt="apple" />
+<img width="64" height="64" src="imgs/lang/linux-original.svg" alt="linux" />
+<img width="64" height="64" src="imgs/lang/android-original-wordmark.svg" alt="android" />
+<img width="64" height="64" src="imgs/lang/microsoftsqlserver-plain-wordmark.svg" alt="sql server" />
+<img width="64" height="64" src="imgs/lang/mysql-original-wordmark.svg" alt="mysql" />
 </div>
 
 # Experiência
