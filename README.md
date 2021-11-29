@@ -29,8 +29,7 @@
 <a href="https://www.linkedin.com/in/marciusbezerra/" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-
-# Experiência
+# Principais Competências
 
 <div style="display: inline-block">
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -46,6 +45,8 @@
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+# Experiência
 
 ### Fortmax Sistemas De Inf Ltda
 ---
