@@ -32,19 +32,19 @@
 # Principais Competências
 
 <div style="display: inline-block">
-<img width="64" height="64" src="imgs/lang/dotnetcore-original.svg" alt="dotnet core" />
-<img width="64" height="64" src="imgs/lang/csharp-original.svg" alt="csharp" />
-<img width="64" height="64" src="imgs/lang/ionic-original.svg" alt="ionic" />
-<img width="64" height="64" src="imgs/lang/angularjs-original.svg" alt="ionic" />
-<img width="64" height="64" src="imgs/lang/typescript-original.svg" alt="typescript" />
-<img width="64" height="64" src="imgs/lang/javascript-original.svg" alt="javascript" />
-<img width="64" height="64" src="imgs/lang/python-original-wordmark.svg" alt="python" />
-<img width="64" height="64" src="imgs/lang/microsoftsqlserver-plain-wordmark.svg" alt="sql server" />
-<img width="64" height="64" src="imgs/lang/mysql-original-wordmark.svg" alt="mysql" />
-<img width="64" height="64" src="imgs/lang/windows8-original.svg" alt="windows" />
-<img width="64" height="64" src="imgs/lang/apple-original.svg" alt="apple" />
-<img width="64" height="64" src="imgs/lang/linux-original.svg" alt="linux" />
-<img width="64" height="64" src="imgs/lang/android-original-wordmark.svg" alt="android" />
+<img width="48" height="48" src="imgs/lang/dotnetcore-original.svg" alt="dotnet core" />
+<img width="48" height="48" src="imgs/lang/csharp-original.svg" alt="csharp" />
+<img width="48" height="48" src="imgs/lang/ionic-original.svg" alt="ionic" />
+<img width="48" height="48" src="imgs/lang/angularjs-original.svg" alt="ionic" />
+<img width="48" height="48" src="imgs/lang/typescript-original.svg" alt="typescript" />
+<img width="48" height="48" src="imgs/lang/javascript-original.svg" alt="javascript" />
+<img width="48" height="48" src="imgs/lang/python-original-wordmark.svg" alt="python" />
+<img width="48" height="48" src="imgs/lang/microsoftsqlserver-plain-wordmark.svg" alt="sql server" />
+<img width="48" height="48" src="imgs/lang/mysql-original-wordmark.svg" alt="mysql" />
+<img width="48" height="48" src="imgs/lang/windows8-original.svg" alt="windows" />
+<img width="48" height="48" src="imgs/lang/apple-original.svg" alt="apple" />
+<img width="48" height="48" src="imgs/lang/linux-original.svg" alt="linux" />
+<img width="48" height="48" src="imgs/lang/android-original-wordmark.svg" alt="android" />
 </div>
 
 # Experiência
