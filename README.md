@@ -31,7 +31,7 @@
 
 # Principais Competências
 
-<div style="display: inline-block; text-align: center">
+<div style="display: inline-block; display: flex">
 <img width="48" height="48" src="imgs/lang/dotnetcore-original.svg" alt="dotnet core" />
 <img width="48" height="48" src="imgs/lang/csharp-original.svg" alt="csharp" />
 <img width="48" height="48" src="imgs/lang/ionic-original.svg" alt="ionic" />
