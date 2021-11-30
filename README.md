@@ -35,6 +35,7 @@
 <img width="64" height="64" src="imgs/lang/dotnetcore-original.svg" alt="dotnet core" />
 <img width="64" height="64" src="imgs/lang/csharp-original.svg" alt="csharp" />
 <img width="64" height="64" src="imgs/lang/ionic-original.svg" alt="ionic" />
+<img width="64" height="64" src="imgs/lang/angularjs-original.svg" alt="ionic" />
 <img width="64" height="64" src="imgs/lang/typescript-original.svg" alt="typescript" />
 <img width="64" height="64" src="imgs/lang/javascript-original.svg" alt="javascript" />
 <img width="64" height="64" src="imgs/lang/python-original-wordmark.svg" alt="python" />
