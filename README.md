@@ -4,17 +4,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)](https://github.com/marciusbezerra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra)
 
-> No início de 2005, graduei-me em Ciências da Computação pela U.V.A. Universidade Estadual Vale do Acaraú.
-> 
-> Tenho experiencia nas linguagens / frameworks C#.Net, Asp.Net, Delphi, Xamarin, Android, AngularJs, Cordova e Windows Azure, trabalho com Gerenciadores de Bancos de Dados como SQL Server, Firebird, MySql, Access e SQLite. Trabalho na área de Tecnologia da Informação a mais de 15 anos prestando serviços como Analista/Desenvolvedor em ambiente Windows e Web.
-> 
-> Leio inglês (instrumental) e espanhol.
-> 
-> Conclui minha formatura, me tornando Bacharel, por determinação e pelo desejo de obtenção de conhecimento em Tecnologia da Informação, em especial nas áreas relacionadas ao Desenvolvimento de Sistemas.
-> 
-> Diariamente dou manutenção a sistemas antigos (legados), trabalhado em projetos das mais variadas áreas, Obrigações Municipais, Arquitetura, Aplicativos Mobile.
-> 
-> Atualmente trabalho como Analista de Sistemas nas empresas do Grupo Fortes / Fortes Tecnologia em Sistemas.
+Em meados de 2005, concluí minha graduação em Ciências da Computação pela renomada Universidade Estadual Vale do Acaraú (U.V.A.).
+
+Possuo uma vasta experiência em diversas linguagens e frameworks, incluindo C#.Net, Asp.Net, Delphi, Xamarin, Android, AngularJs, Cordova e Windows Azure. Além disso, estou familiarizado com diversos Gerenciadores de Bancos de Dados, tais como SQL Server, Firebird, MySql, Access e SQLite. Há mais de 15 anos, tenho atuado no campo da Tecnologia da Informação, oferecendo serviços como Analista/Desenvolvedor em ambientes Windows e Web.
+
+Sou capaz de ler textos em inglês (nível instrumental) e espanhol.
+
+Minha formação acadêmica culminou na obtenção do título de Bacharel, motivado pela determinação em adquirir conhecimentos em Tecnologia da Informação, com foco especial no Desenvolvimento de Sistemas.
+
+Diariamente, tenho o privilégio de realizar a manutenção de sistemas legados, além de contribuir em projetos de alta relevância e complexidade. Minhas atividades englobam áreas fundamentais e estratégicas da Tecnologia da Informação, tais como Sistemas Distribuídos, Inteligência Artificial e Aprendizado de Máquina.
 
 ---
 <div style="display: inline-block">
