@@ -6,7 +6,7 @@
 
 Em meados de 2005, concluí minha graduação em Ciências da Computação pela renomada Universidade Estadual Vale do Acaraú (U.V.A.).
 
-Possuo uma vasta experiência em diversas linguagens e frameworks, incluindo C#.Net, Asp.Net, Delphi, Xamarin, Android, AngularJs, Cordova e Windows Azure. Além disso, estou familiarizado com diversos Gerenciadores de Bancos de Dados, tais como SQL Server, Firebird, MySql, Access e SQLite. Há mais de 15 anos, tenho atuado no campo da Tecnologia da Informação, oferecendo serviços como Analista/Desenvolvedor em ambientes Windows e Web.
+Possuo uma vasta experiência em diversas linguagens e frameworks, incluindo C#.Net, Asp.Net, Delphi, Xamarin, Android, AngularJs, Cordova e Windows Azure. Além disso, estou familiarizado com diversos Gerenciadores de Bancos de Dados, tais como SQL Server, Firebird, MySql, Access e SQLite. Há mais de 20 anos, tenho atuado no campo da Tecnologia da Informação, oferecendo serviços como Analista/Desenvolvedor em ambientes Windows e Web.
 
 Sou capaz de ler textos em inglês (nível instrumental) e espanhol.
 
