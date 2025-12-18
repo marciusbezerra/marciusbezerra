@@ -1,18 +1,53 @@
-# Olá, sou Marcius Bezerra, Analista de Sistemas.
-### Conheça um pouco de mim...
+## 👋 Olá, eu sou Marcius Bezerra
+
+Senior Software Engineer com mais de **25 anos de experiência**
+em desenvolvimento de sistemas, com foco em **.NET, Blazor, APIs
+e aplicações corporativas**.
+
+🎯 Especialista em análise, manutenção e evolução de sistemas legados,
+bem como no desenvolvimento de **novas soluções escaláveis** para
+ambientes Web e Desktop.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)](https://github.com/marciusbezerra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra)
 
-Em meados de 2005, concluí minha graduação em Ciências da Computação pela renomada Universidade Estadual Vale do Acaraú (U.V.A.).
+---
 
-Possuo uma vasta experiência em diversas linguagens e frameworks, incluindo C#.Net, Asp.Net, Blazor, Delphi, Xamarin, Android, Angular, Cordova, Windows Azure, dentre outros. Além disso, estou familiarizado com diversos Gerenciadores de Bancos de Dados, tais como SQL Server, Firebird, MySql e SQLite. Há mais de 20 anos, tenho atuado no campo da Ciências da Computação e da Tecnologia da Informação, oferecendo serviços como Analista/Desenvolvedor em ambientes Linux, Windows, Mac e Web.
+### 🧠 Principais Tecnologias
+- **C# / .NET (Framework & .NET)**
+- **ASP.NET, Blazor (Server & WASM)**
+- Angular, Ionic, Cordova
+- Delphi, Xamarin, Android
+- APIs REST, JWT, integrações
+- Azure (básico a intermediário)
 
-Sou capaz de ler textos em inglês (nível instrumental) e espanhol.
+### 🗄️ Bancos de Dados
+- SQL Server
+- Firebird
+- MySQL
+- SQLite
 
-Minha formação acadêmica culminou na obtenção do título de Bacharel, motivado pela determinação em adquirir conhecimentos em Ciências da Computação, com foco especial na Análise e Desenvolvimento de Sistemas.
+---
 
-Diariamente, tenho o privilégio de realizar a manutenção de sistemas legados, além de contribuir em projetos de alta relevância e complexidade. Minhas atividades englobam áreas fundamentais e estratégicas da Tecnologia da Informação, tais como Sistemas Distribuídos, Inteligência Artificial e Aprendizado de Máquina.
+### 🎓 Formação
+Bacharel em Ciências da Computação  
+Universidade Estadual Vale do Acaraú (UVA) — 2005
+
+---
+
+### 🧩 Atuação Profissional
+Atuo diariamente com **manutenção de sistemas críticos**, evolução de
+aplicações legadas e participação em **projetos de média e alta
+complexidade**, envolvendo arquitetura de software, sistemas
+distribuídos e, mais recentemente, **iniciativas com Inteligência
+Artificial**.
+
+---
+
+🌎 Idiomas:  
+- Português (nativo)  
+- Inglês (leitura técnica)  
+- Espanhol (leitura)
 
 ---
 <div style="display: inline-block">
@@ -46,6 +81,18 @@ Diariamente, tenho o privilégio de realizar a manutenção de sistemas legados,
 </div>
 
 # Experiência
+
+## 🧩 Experiência Profissional (Resumo)
+
+Atuação contínua desde 1999 em projetos de **média e alta complexidade**,
+envolvendo sistemas administrativos, financeiros, saúde, setor público
+e empresarial.
+
+Experiência sólida em:
+- Sistemas corporativos críticos
+- Manutenção e modernização de sistemas legados
+- Arquiteturas cliente/servidor, web e distribuídas
+- Liderança técnica e tomada de decisão arquitetural
 
 ### Fortmax Sistemas De Inf Ltda
 ---
