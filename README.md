@@ -1,12 +1,14 @@
 ## 👋 Olá, eu sou Marcius Bezerra
 
-Senior Software Engineer com mais de **25 anos de experiência**
-em desenvolvimento de sistemas, com foco em **.NET, Blazor, APIs
-e aplicações corporativas**.
+Sou Desenvolvedor Sênior com mais de 25 anos de experiência em Análise e Desenvolvimento de Sistemas, atuando no desenvolvimento, manutenção e modernização de aplicações corporativas de pequeno, médio e grande porte. Trabalho com tecnologias Microsoft desde antes do lançamento do framework .NET, tendo acompanhado e aplicado a evolução tecnológica desde VB5, Visual Studio 5 e 6, passando por WebForms e WinForms, até as versões atuais do ecossistema .NET.
 
-🎯 Especialista em análise, manutenção e evolução de sistemas legados,
-bem como no desenvolvimento de **novas soluções escaláveis** para
-ambientes Web e Desktop.
+Vivenciei a transição de arquiteturas baseadas em SOAP/XML e SOAP/JSON para APIs REST, atuando hoje com .NET 8 e 9 no desenvolvimento de Web APIs, MVC, Blazor (Server e WebAssembly) e MAUI. Possuo forte experiência com sistemas legados, incluindo análise, manutenção, refatoração e modernização gradual, sempre preservando a estabilidade e continuidade do negócio.
+
+No front-end, atuo com JavaScript e TypeScript, utilizando Angular, Ionic e React, além de experiência complementar com Node.js e Next.js. Ao longo da carreira, participei da construção de APIs robustas, integração entre sistemas, automação de processos e aplicação consistente de boas práticas, princípios de arquitetura limpa e foco em qualidade e manutenibilidade do código. Possuo experiência com testes de software e validação de soluções em ambientes produtivos.
+
+Sou Bacharel em Ciências da Computação pela Universidade Estadual Vale do Acaraú (UVA), com sólida especialização em .NET, C#, ASP.NET Core, WebAPI e Blazor (Server e WebAssembly). Possuo também forte domínio em JavaScript/TypeScript, Angular e Ionic, além de experiência complementar com Node.js e Next.js.
+
+Atuo em ambientes Windows, Linux, Web e Mobile, com experiência em projetos presenciais e remotos, inclusive em times distribuídos. Meu foco é entregar soluções estáveis, performáticas, escaláveis e alinhadas às necessidades do negócio. Possuo leitura técnica em inglês e espanhol e estou aberto a novas oportunidades CLT ou PJ, remotas ou híbridas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)](https://github.com/marciusbezerra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra)
