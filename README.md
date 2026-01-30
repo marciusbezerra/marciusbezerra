@@ -1,6 +1,11 @@
-**[🇺🇸 English Version](README.en.md)**
-
 ## 👋 Olá, eu sou Marcius Bezerra
+
+<div>
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio_Interativo-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marciusbezerra.github.io/)
+[![English](https://img.shields.io/badge/🇺🇸_English_Version-blue?style=for-the-badge)](README.en.md)
+
+</div>
 
 Arquiteto / Desenvolvedor Full Stack Sênior com mais de 25 anos de experiência em Análise e Desenvolvimento de Sistemas, atuando na construção, manutenção e modernização de aplicações corporativas de pequeno, médio e grande porte. Experiência com tecnologias Microsoft desde antes do lançamento do .NET, acompanhando sua evolução desde VB5/VB6 e Visual Studio clássico, passando por WinForms e WebForms, até o ecossistema atual (.NET Framework, .NET Core e versões recentes do .NET).
 

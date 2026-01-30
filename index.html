@@ -1,46 +1,419 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página de Teste</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333;
-        }
-        .container {
-            background-color: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        button {
-            background-color: #007bff;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Página de Teste</h1>
-        <p>Este é um documento HTML de teste.</p>
-        <p>Teste de funcionalidade básica.</p>
-        <button onclick="alert('Botão clicado!')">Clique aqui</button>
-    </div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marcius Bezerra | Full Stack Architect & Developer</title>
+    <meta
+      name="description"
+      content="Arquiteto / Desenvolvedor Full Stack Sênior com mais de 25 anos de experiência"
+    />
+    <meta name="author" content="Marcius Bezerra" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Particles Background -->
+    <div id="particles-js"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+      <div class="nav-container">
+        <div class="nav-logo">
+          <span class="logo-bracket">&lt;</span>
+          <span class="logo-text">MB</span>
+          <span class="logo-bracket">/&gt;</span>
+        </div>
+        <div class="nav-menu" id="navMenu">
+          <a href="#home" class="nav-link active">Home</a>
+          <a href="#about" class="nav-link">About</a>
+          <a href="#skills" class="nav-link">Skills</a>
+          <a href="#experience" class="nav-link">Experience</a>
+          <a href="#contact" class="nav-link">Contact</a>
+          <button
+            class="theme-toggle"
+            id="themeToggle"
+            aria-label="Toggle theme"
+          >
+            <svg
+              class="sun-icon"
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="12" cy="12" r="5" />
+              <line x1="12" y1="1" x2="12" y2="3" />
+              <line x1="12" y1="21" x2="12" y2="23" />
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+              <line x1="1" y1="12" x2="3" y2="12" />
+              <line x1="21" y1="12" x2="23" y2="12" />
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+            </svg>
+            <svg
+              class="moon-icon"
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+          </button>
+        </div>
+        <div class="nav-toggle" id="navToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+      <div class="hero-container">
+        <div class="hero-content">
+          <div class="hero-text">
+            <div class="typing-container">
+              <span class="typing-prefix">console.log(</span>
+              <span class="typing-text" id="typingText"></span>
+              <span class="cursor">|</span>
+              <span class="typing-suffix">)</span>
+            </div>
+            <h1 class="hero-title">
+              <span class="gradient-text">Marcius Bezerra</span>
+            </h1>
+            <p class="hero-subtitle">Full Stack Architect & Developer</p>
+            <p class="hero-description">
+              25+ anos transformando ideias em soluções escaláveis e inovadoras
+            </p>
+            <div class="hero-stats">
+              <div class="stat-item">
+                <span class="stat-number" data-target="25">0</span>
+                <span class="stat-label">Anos de Experiência</span>
+              </div>
+              <div class="stat-item">
+                <span class="stat-number" data-target="100">0</span>
+                <span class="stat-label">Projetos Entregues</span>
+              </div>
+              <div class="stat-item">
+                <span class="stat-number" data-target="15">0</span>
+                <span class="stat-label">Tecnologias</span>
+              </div>
+            </div>
+            <div class="hero-buttons">
+              <a href="#contact" class="btn btn-primary">
+                <span>Entre em Contato</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </a>
+              <a href="#skills" class="btn btn-secondary">
+                <span>Ver Skills</span>
+              </a>
+            </div>
+          </div>
+          <div class="hero-visual">
+            <div class="code-window">
+              <div class="window-header">
+                <span
+                  class="window-dot"
+                  style="background-color: #ff5f56"
+                ></span>
+                <span
+                  class="window-dot"
+                  style="background-color: #ffbd2e"
+                ></span>
+                <span
+                  class="window-dot"
+                  style="background-color: #27c93f"
+                ></span>
+              </div>
+              <div class="window-content">
+                <pre><code><span class="code-keyword">class</span> <span class="code-class">Developer</span> {
+  <span class="code-keyword">constructor</span>() {
+    <span class="code-keyword">this</span>.name = <span class="code-string">"Marcius Bezerra"</span>;
+    <span class="code-keyword">this</span>.role = <span class="code-string">"Full Stack Architect"</span>;
+    <span class="code-keyword">this</span>.experience = <span class="code-number">25</span>;
+  }
+  
+  <span class="code-function">getSkills</span>() {
+    <span class="code-keyword">return</span> [
+      <span class="code-string">".NET"</span>, <span class="code-string">"C#"</span>, <span class="code-string">"Angular"</span>,
+      <span class="code-string">"React"</span>, <span class="code-string">"Docker"</span>, <span class="code-string">"Kubernetes"</span>
+    ];
+  }
+}</code></pre>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="scroll-indicator">
+          <span>Scroll</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Sobre Mim</span>
+          <h2 class="section-title">Conheça Minha Jornada</h2>
+        </div>
+        <div class="about-content">
+          <div class="about-text">
+            <p class="about-intro">
+              Arquiteto / Desenvolvedor Full Stack Sênior com mais de 25 anos de
+              experiência em Análise e Desenvolvimento de Sistemas,
+              especializado na construção, manutenção e modernização de
+              aplicações corporativas de pequeno, médio e grande porte.
+            </p>
+            <div class="about-highlights">
+              <div class="highlight-item">
+                <div class="highlight-icon">🚀</div>
+                <div class="highlight-content">
+                  <h4>Modernização de Sistemas</h4>
+                  <p>
+                    Experiência sólida em transição de arquiteturas legadas para
+                    soluções modernas com REST APIs, microserviços e cloud.
+                  </p>
+                </div>
+              </div>
+              <div class="highlight-item">
+                <div class="highlight-icon">🏗️</div>
+                <div class="highlight-content">
+                  <h4>Arquitetura de Software</h4>
+                  <p>
+                    DDD, Clean Architecture e práticas modernas para construir
+                    soluções escaláveis e sustentáveis.
+                  </p>
+                </div>
+              </div>
+              <div class="highlight-item">
+                <div class="highlight-icon">🔧</div>
+                <div class="highlight-content">
+                  <h4>Full Stack Developer</h4>
+                  <p>
+                    Domínio de tecnologias front-end e back-end, desde .NET/C#
+                    até Angular/React, com foco em experiência do usuário.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="about-meta">
+              <div class="meta-item">
+                <strong>🎓 Formação:</strong> Bacharel em Ciências da Computação
+                - UVA (2005)
+              </div>
+              <div class="meta-item">
+                <strong>🌎 Idiomas:</strong> Português (nativo), Inglês
+                (técnico), Espanhol (leitura)
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Tecnologias</span>
+          <h2 class="section-title">Skills & Expertise</h2>
+        </div>
+
+        <div class="skills-filter">
+          <button class="filter-btn active" data-filter="all">Todas</button>
+          <button class="filter-btn" data-filter="backend">Back-End</button>
+          <button class="filter-btn" data-filter="frontend">Front-End</button>
+          <button class="filter-btn" data-filter="devops">DevOps</button>
+          <button class="filter-btn" data-filter="database">Database</button>
+          <button class="filter-btn" data-filter="architecture">
+            Arquitetura
+          </button>
+        </div>
+
+        <div class="skills-grid" id="skillsGrid">
+          <!-- Skills will be dynamically inserted here -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="experience">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Carreira</span>
+          <h2 class="section-title">Experiência Profissional</h2>
+        </div>
+        <div class="timeline" id="timeline">
+          <!-- Timeline items will be dynamically inserted here -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Contato</span>
+          <h2 class="section-title">Vamos Conversar?</h2>
+        </div>
+        <div class="contact-content">
+          <div class="contact-info">
+            <p class="contact-intro">
+              Estou sempre aberto a novas oportunidades e colaborações. Entre em
+              contato através das plataformas abaixo:
+            </p>
+            <div class="social-links">
+              <a
+                href="https://www.linkedin.com/in/marciusbezerra/"
+                target="_blank"
+                class="social-link"
+                title="LinkedIn"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"
+                  />
+                </svg>
+                <span>LinkedIn</span>
+              </a>
+              <a
+                href="https://github.com/marciusbezerra"
+                target="_blank"
+                class="social-link"
+                title="GitHub"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"
+                  />
+                </svg>
+                <span>GitHub</span>
+              </a>
+              <a
+                href="mailto:marciusbezerra@gmail.com"
+                class="social-link"
+                title="Email"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                  ></path>
+                  <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+                <span>Email</span>
+              </a>
+              <a
+                href="https://wa.me/5585988559171"
+                target="_blank"
+                class="social-link"
+                title="WhatsApp"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"
+                  />
+                </svg>
+                <span>WhatsApp</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-text">
+            <p>
+              &copy; 2026 Marcius Bezerra. Desenvolvido com 💙 e muito código.
+            </p>
+          </div>
+          <div class="footer-links">
+            <a href="README.md" target="_blank">README.md</a>
+            <span>•</span>
+            <a href="README.en.md" target="_blank">English Version</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="app.js"></script>
+  </body>
 </html>
