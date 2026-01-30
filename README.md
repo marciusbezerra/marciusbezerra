@@ -1,3 +1,5 @@
+**[🇺🇸 English Version](README.en.md)**
+
 ## 👋 Olá, eu sou Marcius Bezerra
 
 Arquiteto / Desenvolvedor Full Stack Sênior com mais de 25 anos de experiência em Análise e Desenvolvimento de Sistemas, atuando na construção, manutenção e modernização de aplicações corporativas de pequeno, médio e grande porte. Experiência com tecnologias Microsoft desde antes do lançamento do .NET, acompanhando sua evolução desde VB5/VB6 e Visual Studio clássico, passando por WinForms e WebForms, até o ecossistema atual (.NET Framework, .NET Core e versões recentes do .NET).
@@ -14,28 +16,63 @@ Possuo experiência com testes de software, validação de soluções em produç
 ---
 
 ### 🧠 Principais Tecnologias
-- **C# / .NET (Framework & .NET)**
-- **ASP.NET, Blazor (Server & WASM)**
-- Angular, Ionic, Cordova
-- Delphi, Xamarin, Android
-- APIs REST, JWT, integrações
-- Azure (básico a intermediário)
+
+#### Back-End
+
+- **.NET / C# / ASP.NET Core**
+- **Web API / MVC**
+- **Blazor (Server e WebAssembly)**
+- **MAUI**
+- **Node.js / Next.js**
+
+#### Front-End
+
+- **JavaScript / TypeScript**
+- **Angular / Ionic / React**
+- **Capacitor**
+
+#### DevOps & Infraestrutura
+
+- **Docker**
+- **Kubernetes**
+- **Kafka**
+- **Azure**
+
+#### Arquitetura & Práticas
+
+- **Arquitetura de Software**
+- **DDD / Clean Architecture**
+- **Desenvolvimento Full Stack**
+- **Sistemas Legados e Modernização**
+- **Integração de Sistemas**
+- **Testes e Validação em Produção**
+- **APIs REST, JWT, integrações**
 
 ### 🗄️ Bancos de Dados
-- SQL Server
-- Firebird
-- MySQL
-- SQLite
+
+- **SQL Server / Firebird**
+- **MySQL**
+- **SQLite**
+
+### 🧓 Legados
+
+- **VB6 / ASP Clássico**
+- **Delphi**
+- **WinForms / WebForms**
+- **Xamarin**
+- **Cordova**
 
 ---
 
 ### 🎓 Formação
+
 Bacharel em Ciências da Computação  
 Universidade Estadual Vale do Acaraú (UVA) — 2005
 
 ---
 
 ### 🧩 Atuação Profissional
+
 Atuo diariamente com **manutenção de sistemas críticos**, evolução de
 aplicações legadas e participação em **projetos de média e alta
 complexidade**, envolvendo arquitetura de software, sistemas
@@ -44,12 +81,14 @@ Artificial**.
 
 ---
 
-🌎 Idiomas:  
-- Português (nativo)  
-- Inglês (leitura técnica)  
+🌎 Idiomas:
+
+- Português (nativo)
+- Inglês (leitura técnica)
 - Espanhol (leitura)
 
 ---
+
 <div style="display: inline-block">
 <a href="https://wa.me/5585988559171" target="_blank"><img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:marciusbezerra@gmail.com" target="_blank"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -89,12 +128,14 @@ envolvendo sistemas administrativos, financeiros, saúde, setor público
 e empresarial.
 
 Experiência sólida em:
+
 - Sistemas corporativos críticos
 - Manutenção e modernização de sistemas legados
 - Arquiteturas cliente/servidor, web e distribuídas
 - Liderança técnica e tomada de decisão arquitetural
 
 ### Fortmax Sistemas De Inf Ltda
+
 ---
 
 > set de 2020 - o momento · 1 ano 3 mesesset de 2020 - o momento · 1 ano 3 meses
@@ -106,6 +147,7 @@ _Trabalhos de análise e desenvolvimento de sistemas e aplicações móveis (app
 💡 Competências: **ASP.NET Core**, **C#.NET**, **JavaScript**, **Docker**, **Angular**, **SQL Server**.
 
 ### Fortes Tecnologia em Sistemas
+
 ---
 
 > set de 2008 - o momento · 13 anos 3 mesesset de 2008 - o momento · 13 anos 3 meses
@@ -120,6 +162,7 @@ _Analista de Sistemas passando pelas Empresas do Grupo Fortes:_
 💡 Competências: **Delphi**, **C#.NET**, **JavaScript**, **AngularJs**, **WPF**, **Azure**, **SQL Server**, **Firebird**.
 
 ### DIGIMAX (GRUPO TUDOMUNICIPAL)
+
 ---
 
 > jul de 2005 - set de 2008 · 3 anos 3 mesesjul de 2005 - set de 2008 · 3 anos 3 meses
@@ -131,6 +174,7 @@ _Responsável pela criação e manutenção de sistemas de Folha de Pagamento, L
 💡 Competências: **Delphi**, **SQL Server**, **Asp.Net**, **Firebird**.
 
 ### COOPERATIVA DOS TRABALHADORES EM SAÚDE E AÇÃO SOCIAL (PREFEITURA MUNICIPAL DE SOBRAL/CE)
+
 ---
 
 > ago de 2004 - dez de 2004 · 5 mesesago de 2004 - dez de 2004 · 5 meses
@@ -142,6 +186,7 @@ _Responsável pela criação e administração do sistema SISCPAG de Gerência, 
 💡 Competências: **Delphi**, **SQL Server**, **Asp.Net**.
 
 ### C.C.S. - CENTRO DE CIÊNCIAS DA SAÚDE
+
 ---
 
 > jan de 2002 - jan de 2004 · 2 anos 1 mêsjan de 2002 - jan de 2004 · 2 anos 1 mês
@@ -153,6 +198,7 @@ _Aplicativo SADP de Avaliação Pedagógica distribuído entre tópicos e quest�
 💡 Competências: **Access**, **Asp**, **Delphi**, **Ambiente Cliente/Servidor**.
 
 ### Universidade Estadual Vale do Acaraú - UVA
+
 ---
 
 > dez de 2000 - jan de 2002 · 1 ano 2 mesesdez de 2000 - jan de 2002 · 1 ano 2 meses
@@ -164,6 +210,7 @@ _Criação e Prestação de Serviços de manutenção do aplicativo ST, Sistema 
 💡 Competências: **Visual Basic**, **Access**.
 
 ### S.U.S. (PREFEITURA MUNICIPAL DE BATURITÉ)
+
 ---
 
 > jul de 2000 - mai de 2001 · 11 mesesjul de 2000 - mai de 2001 · 11 meses
@@ -175,6 +222,7 @@ _Criação, Implantação e Prestação de Serviços para aplicativo MEDIC, Cont
 💡 Competências: **Visual Basic**, **Access**, **Asp**.
 
 ### Universidade Estadual Vale do Acaraú - UVA
+
 ---
 
 > dez de 1999 - jul de 2000 · 8 mesesdez de 1999 - jul de 2000 · 8 meses
@@ -187,6 +235,7 @@ serviços de manutenção para os aplicativos citados._
 💡 Competências: **Access**, **SQL Server**, **Visual Basic**, **Delphi**, **Access**, **Asp.Net**.
 
 ### Senac Ceará
+
 ---
 
 > mar de 1999 - set de 1999 · 7 mesesmar de 1999 - set de 1999 · 7 meses
