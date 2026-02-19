@@ -7,13 +7,13 @@
 
 </div>
 
-Senior Full Stack Architect / Developer with over 25 years of experience in Systems Analysis and Development, working on the construction, maintenance, and modernization of small, medium, and large corporate applications. Experienced with Microsoft technologies since before the .NET launch, following its evolution from VB5/VB6 and classic Visual Studio, through WinForms and WebForms, to the current ecosystem (.NET Framework, .NET Core, and recent .NET versions).
+Senior Developer with solid experience in Systems Analysis and Development, working on building, modernizing and maintaining enterprise applications. Strong recurring expertise in the **.NET** ecosystem (**.NET Framework, .NET Core and recent .NET versions**), developing **Web APIs**, **MVC**, **Blazor (Server and WASM)** and **MAUI**, with focus on architecture, versioning, testing and system integration.
 
-Solid experience in transitioning from SOAP/XML and SOAP/JSON architectures to REST APIs, developing Web APIs, MVC, Blazor (Server and WebAssembly), and MAUI, using modern architecture practices, versioning, and system integration. Strong experience with legacy systems, including analysis, refactoring, and incremental modernization, preserving operational stability and business continuity.
+On the front-end, experience with **Angular**, **Ionic** and **Next.js (Node.js) / React**, building web and hybrid applications, layer organization, structured API consumption and applying best practices for componentization and back-end integration.
 
-On the front-end, I work with JavaScript and TypeScript, using Angular, Ionic, and React, plus complementary experience with Node.js and Next.js. Experience in system integration, process automation, and development of distributed solutions, including messaging and asynchronous processing with EDA using Kafka, as well as containerized applications running in orchestrated environments with Docker and Kubernetes.
+Experience in developing **distributed solutions**, messaging with **EDA** and **Kafka**, as well as containerized applications with **Docker** and **Kubernetes**.
 
-I have experience with software testing, production solution validation, and basic application observability. I work in Windows, Linux, Web, and Mobile environments, in on-site and remote projects, including distributed teams. I focus on delivering stable, scalable, performant solutions aligned with business needs, with strong attention to maintainability and code quality.
+Background in modernizing legacy systems, including migration from **SOAP** architectures to **REST APIs**, with experience ranging from technologies like **VB5, WinForms and WebForms** to the current ecosystem.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20Statistics)](https://github.com/marciusbezerra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Frequent%20Languages)](https://github.com/marciusbezerra)
