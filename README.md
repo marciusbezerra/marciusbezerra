@@ -7,13 +7,13 @@
 
 </div>
 
-Arquiteto / Desenvolvedor Full Stack Sênior com mais de 25 anos de experiência em Análise e Desenvolvimento de Sistemas, atuando na construção, manutenção e modernização de aplicações corporativas de pequeno, médio e grande porte. Experiência com tecnologias Microsoft desde antes do lançamento do .NET, acompanhando sua evolução desde VB5/VB6 e Visual Studio clássico, passando por WinForms e WebForms, até o ecossistema atual (.NET Framework, .NET Core e versões recentes do .NET).
+Desenvolvedor Sênior com sólida experiência em Análise e Desenvolvimento de Sistemas, atuando na construção, modernização e sustentação de aplicações corporativas. Forte atuação recorrente no ecossistema **.NET** (**.NET Framework, .NET Core e versões recentes do .NET**), desenvolvendo **Web APIs**, **MVC**, **Blazor (Server e WASM)** e **MAUI**, com foco em arquitetura, versionamento, testes e integração entre sistemas.
 
-Atuação sólida na transição de arquiteturas SOAP/XML e SOAP/JSON para APIs REST, com desenvolvimento de Web APIs, MVC, Blazor (Server e WebAssembly) e MAUI, utilizando práticas modernas de arquitetura, versionamento e integração entre sistemas. Forte experiência com sistemas legados, incluindo análise, refatoração e modernização incremental, preservando estabilidade operacional e continuidade do negócio.
+No front-end, experiência com **Angular**, **Ionic** e **Next.js (Node.js) / React**, atuando na construção de aplicações web e híbridas, organização de camadas, consumo estruturado de APIs e aplicação de boas práticas de componentização e integração com back-end.
 
-No front-end, trabalho com JavaScript e TypeScript, utilizando Angular, Ionic e React, além de experiência complementar com Node.js e Next.js. Atuação em integração entre sistemas, automação de processos e desenvolvimento de soluções distribuídas, incluindo mensageria e processamento assíncrono com EDA usando Kafka, bem como aplicações containerizadas executando em ambientes orquestrados com Docker e Kubernetes.
+Experiência no desenvolvimento de **soluções distribuídas**, mensageria com **EDA** e **Kafka**, além de aplicações containerizadas com **Docker** e **Kubernetes**.
 
-Possuo experiência com testes de software, validação de soluções em produção e observabilidade básica de aplicações. Atuo em ambientes Windows, Linux, Web e Mobile, em projetos presenciais e remotos, inclusive com times distribuídos. Foco em entregar soluções estáveis, escaláveis, performáticas e alinhadas às necessidades do negócio, com forte atenção à manutenibilidade e qualidade do código.
+Vivência na modernização de sistemas legados, incluindo migração de arquiteturas **SOAP** para **APIs REST**, com histórico de atuação desde tecnologias como **VB5, WinForms e WebForms** até o ecossistema atual.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusbezerra&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Minhas%20Estatísticas)](https://github.com/marciusbezerra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusbezerra&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=9&&custom_title=Linguagens%20Frequentes)](https://github.com/marciusbezerra)
